@@ -16,7 +16,7 @@ snap extension we plan to use once available
 
 ### What is already done?
 
-At the [June 2019 snapcraft summit](https://snapcraft.io/blog/) a solid foundation was established:
+At the [June 2019 snapcraft summit](https://snapcraft.io/blog/2019/03/22/snapcraft-summit-montreal) a solid foundation was established:
 
 - the [snapcraft](https://snapcraft.io) recipe builds R from source (but is not yet as fully featured as _e.g._ the `deb` package)
 - the resulting `snap` works in the preferred `strict` confiment
